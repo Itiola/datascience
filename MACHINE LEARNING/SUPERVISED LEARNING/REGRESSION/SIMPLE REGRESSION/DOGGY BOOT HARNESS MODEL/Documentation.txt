@@ -1,0 +1,19 @@
+PROJECT
+
+Name: Doggy Boot Harness Model
+
+ML type: Supervised
+
+ML subtype: Regression
+
+Purpose: To predict the harness size from the boot size.
+
+Dependencies: Scikitlearn, Pandas, Numpy, Joblib.
+
+Algorithm used: Linear regression
+
+Performance: 
+
+1. Accuracy -
+
+Performance metrics: 
