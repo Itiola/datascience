@@ -1,1 +1,1 @@
-# datascience
+Welcome to my GitHub repository that contains all my data science projects. I am open to working on exciting projects that brings about solutions to problems and positive change in our world using data.
